@@ -1,0 +1,12 @@
+---
+layout: default
+title: LHS Student-Faculty Senate
+---
+
+<ul>
+{% for page in site.pages %}
+  {% if page.layout == 'bill' %}
+    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+  {% endif %}
+{% endfor %}
+</ul>
