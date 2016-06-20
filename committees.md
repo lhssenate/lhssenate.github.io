@@ -3,6 +3,8 @@ layout: default
 title: Senate Committees
 ---
 
+[This is so far an unofficial description of each committee, and should probably be passed before the Senate before being finalized.]
+
 ## Climate Committee
 The School Climate Committee works to maintain a healthy atmosphere at Lexington High School. It writes bills and initiates projects to improve the physical appearance and emotional comfort of the school. It is responsible for polling students periodically according to the Public Opinion Bill.
 
@@ -27,3 +29,6 @@ The Policy Committee drafts and considers bills that relate to the governance of
 
 ## Social Action Committee
 The Social Action Committee is concerned primarily with student activism and relations between LHS and the surrounding community. It monitors the community service program as mandated by the Revised Community Service Bill and enforces volunteerism through the Class Service Project Bill.
+
+## Communications Committee
+The Communications Committee is in charge of communicating the Senate's activities to the students and faculty of LHS, and ensuring that constituents have ways to have their voice heard in the Senate.
