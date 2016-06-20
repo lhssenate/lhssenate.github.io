@@ -10,3 +10,5 @@ title: LHS Student-Faculty Senate
   {% endif %}
 {% endfor %}
 </ul>
+
+<a href="unconverted.txt">Bills not yet converted to the new website format</a>
