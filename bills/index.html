@@ -4,7 +4,7 @@ title: LHS Student-Faculty Senate
 ---
 
 <ul>
-{% for page in site.pages %}
+{% for page in site.pages reversed %}
   {% if page.layout == 'bill' %}
     <li><a href="{{ page.url }}">{{ page.title }}</a></li>
   {% endif %}
